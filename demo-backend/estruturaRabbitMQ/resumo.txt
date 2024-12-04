@@ -1,0 +1,3 @@
+mensagem -> broquer -> exchange -> queues -> queue -> consumer
+                                          |-> queue -> consumer
+#Terraform atomatizaria isso...

@@ -1,0 +1,4 @@
+package com.spring.rabbitmq.demo_backend.consumer;
+
+public class PagamentoResponseSucessoConsumidor {
+}
